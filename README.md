@@ -51,6 +51,17 @@
 - Practical OWASP guides and checklists for clients and internal teams.  
 - Documentation of IR procedures (detection, response, mitigation).
 
+### Highlighted Academic Background
+
+**Bachelor’s Degree in Psychology**  
+*National University of Distance Education (UNED)*  
+_Completed up to the 3rd year_
+
+> **Relevance to Cybersecurity:**  
+> My education in Psychology provided me with a solid understanding of cognitive, emotional, and social processes that influence human behavior. This knowledge is essential for analyzing and preventing social engineering attacks, where psychological manipulation is the primary vector.  
+>  
+> This foundation enables me to design effective strategies for **awareness**, **detection**, and **mitigation** of threats targeting human vulnerabilities, thereby strengthening the overall security of systems and users.
+
 ---
 
 ## Computer Security
