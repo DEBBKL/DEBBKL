@@ -1,4 +1,4 @@
-# Déborah Loisel | Cybersecurity Analyst
+# Déborah Loisel | Cybersecurity Analyst & Vulnerability Management
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/DEBBKL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinfalosteam@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deborah-loisel)
 
@@ -15,150 +15,119 @@
 
 ---
 
-## Technical Projects and Labs
+## About Me
 
-- **Security & Vulnerability Management**  
-  Scanning with Nessus, ZAP, Burp; technical reporting and automation with Python/Bash.
+Junior cybersecurity professional specialized in vulnerability management, Blue Team operations, and incident response.  
+Experienced in Linux environments (Kali Linux, Ubuntu), security auditing, IDS/IPS (Snort, Wazuh), log analysis, and automation with Python and Bash.  
 
-- **Cybersecurity & Forensics Labs**  
-  Analysis with Wireshark, Volatility; intrusion detection with Snort, Wazuh.
-
-- **Web Security Auditing**  
-  OWASP audits, header hardening, session management, etc.
-
-- **Cloud & DevOps**  
-  Basic projects with IONOS, Azure, Docker, GitHub Actions.
-
-- **CMS & WordPress**  
-  Customized sites with WooCommerce and applied security.
+Currently focused on developing practical skills aligned with OWASP methodologies, threat detection, and mitigation in real and virtual environments.  
+Based in Las Palmas de Gran Canaria, open to collaboration and professional opportunities.
 
 ---
 
-## Professional Certifications
+## Skills & Technologies
 
-- **Web Vulnerability Analysis (Level 3)**  
-  Identification, exploitation, and remediation of vulnerabilities based on OWASP. Tools: ZAP, Burp, Nikto, Dirsearch.
-
-- **Computer Security and Network Security**  
-  Cybersecurity fundamentals, secure protocols, log and network traffic analysis. Tools: Wireshark, Snort, Suricata, Wazuh, Splunk, Nmap.
-
-- **Systems and Network Administration with Open Source Software**  
-  Linux server configuration, user management, automation with Bash. Technologies: Ubuntu Server, Apache, Samba, cron.
-
-- **Virtualization and Cloud Computing**  
-  Virtual environments and basic IaaS concepts. Tools: VirtualBox, KVM, Azure, IONOS.
-
-- **Prestashop Administration**  
-  Configuration, customization, and secure maintenance of online stores.
-
-- **WordPress Administration (Advanced)**  
-  Advanced management, plugin analysis, security, migrations, and technical optimization.
+- Operating Systems: Kali Linux, Ubuntu, Windows  
+- Security Tools: Snort, Fail2Ban, Wazuh, Nessus, Burp Suite, ZAP Proxy, Nikto, Dirsearch, Nmap, Wireshark, Volatility, Suricata, Splunk  
+- Scripting & Automation: Python (3.13), Bash, PowerShell  
+- Cloud & DevOps: IONOS Cloud, Azure, Docker, GitHub Actions  
+- CMS & Web Security: WordPress (Gutenberg, WooCommerce), Prestashop, WPvivid Backup  
+- Version Control: Git & GitHub  
+- Other Tools: SoftEther VPN, theZoo, Adobe Photoshop, Figma, Canva, Lightroom, TOR, Wireguard
 
 ---
 
-## Featured Work
+## Education & Certifications
 
-- Security audits for corporate subdomains and cloud environments.  
-- Practical OWASP guides and checklists for clients and internal teams.  
-- Documentation of IR procedures (detection, response, mitigation).
-
-### Highlighted Academic Background
-
-**Bachelor’s Degree in Psychology**  
-*National University of Distance Education (UNED)*  
-_Completed up to the 3rd year_
-
-> **Relevance to Cybersecurity:**  
-> My education in Psychology provided me with a solid understanding of cognitive, emotional, and social processes that influence human behavior. This knowledge is essential for analyzing and preventing social engineering attacks, where psychological manipulation is the primary vector.  
->  
-> This foundation enables me to design effective strategies for **awareness**, **detection**, and **mitigation** of threats targeting human vulnerabilities, thereby strengthening the overall security of systems and users.
+- SEPE – Cybersecurity Level 3  
+- Fortinet NSE: FCF - Introduction to the Threat Landscape 3.0 — Score: 88/100 (June 2025)  
+  ![FCF Badge](https://img.shields.io/badge/FCF-88%2F100%20%E2%80%93%2020_Jun_2025-green?style=flat&logo=fortinet)  
+- Training in vulnerability analysis, IDS/IPS, log analysis, incident response, secure configurations, cryptography, and IT service management.  
+- Bachelor’s Degree in Psychology (UNED, completed up to 3rd year) — strong foundation in social engineering and human factors in cybersecurity.
 
 ---
 
-## Computer Security
+## Professional Experience & Projects
 
-### General Competency  
-Ensure the security of access and use of information recorded in computer equipment and systems, protecting against attacks, identifying vulnerabilities, and applying encryption systems for internal and external communications within the organization.
-
-### Competency Units and Related Occupations
-
-| Competency Unit                                   | Related Occupations                                   |
-|-------------------------------------------------|-----------------------------------------------------|
-| Secure computer equipment                        | Programmer, IT security technician, IT auditor      |
-| Audit networks and systems                       | Security technician, security auditor                |
-| Detect and respond to incidents                  | Security analyst, incident responder                  |
-| Design secure access and data transmission systems | Security engineer, systems administrator             |
-| Manage IT system services                        | Systems administrator, IT service manager            |
+- Vulnerability management and technical security audits for corporate environments and cloud subdomains (using Nessus, ZAP, Burp Suite).  
+- Development of automation scripts in Python and Bash for vulnerability scanning and reporting.  
+- Incident detection and forensic analysis with Wireshark, Volatility, Snort, and Wazuh.  
+- OWASP-based web security audits: HTTP header hardening, session security, access control.  
+- Cloud and DevOps projects including containerization with Docker, CI/CD pipelines with GitHub Actions, and infrastructure management on IONOS and Azure.  
+- Advanced WordPress administration: migrations, security optimization, WooCommerce customization, backup with WPvivid.  
+- Documentation of incident response (IR) procedures, security checklists, and audit reports.  
 
 ---
 
-### Training Modules
+## Practical Labs & Exercises
 
-**Secure Computer Equipment**  
-- Secure configuration of hardware and software (Windows, Linux).  
-- Access control and management: users, groups, permissions, and roles.  
-- Password policies and local authentication.  
-- Protection against malware and physical attacks.  
-- Patch management and security updates.  
-- Backup and recovery.  
-- Monitoring tools and anomaly detection.
+- **IDS/IPS Deployment & Configuration:**  
+  Setup and tuning of Snort for intrusion detection on Kali Linux. Analysis of alerts and rule customization.
 
-**Security Auditing**  
-- Fundamentals and phases of IT auditing.  
-- Scanning and vulnerability analysis tools (Nmap, Nessus, OpenVAS).  
-- Configuration and security policy analysis.  
-- Access control and authentication assessment.  
-- Basic penetration testing.  
-- Audit report writing and risk management.
+- **Log Analysis & Incident Response:**  
+  Windows Event Viewer log review for security events. Monitoring and alerting configuration with Wazuh and Splunk.
 
-**Security Incident Management**  
-- Concepts and types of incidents.  
-- Monitoring and detection (SIEM, IDS/IPS).  
-- Basic forensic analysis and evidence preservation.  
-- Response procedures: identification, containment, eradication, recovery.  
-- Incident communication and documentation.  
-- Contingency and business continuity planning.
+- **Brute Force Attack Mitigation:**  
+  Implementation of Fail2Ban to block SSH brute force attempts. Writing custom filters and testing with simulated attacks.
 
-**Secure Access and Data Transmission Systems**  
-- Symmetric and asymmetric cryptography.  
-- Algorithms: AES, RSA, SHA.  
-- Secure protocols: TLS/SSL, VPN, SSH.  
-- Identity management: LDAP, Active Directory.  
-- Multifactor and biometric authentication.  
-- Digital certificates and key management.  
-- Mitigation of common attacks (MitM, phishing).
+- **Vulnerability Scanning & Automation:**  
+  Use of Nessus, OWASP ZAP, and Burp Suite for vulnerability discovery. Automated report generation using Python and Bash scripts.
 
-**IT System Service Management**  
-- Administration of systems and services (web, mail, DB).  
-- Proactive monitoring and maintenance.  
-- User, permission, and policy management.  
-- Automation and scripting.  
-- Security policies and regulatory compliance.  
-- Backup and recovery of critical services.  
-- IT change planning and control.
+- **Web Security Audits:**  
+  Practical OWASP Top 10 audits including HTTP header security, session management, and access control tests.
+
+- **Forensic Memory Analysis:**  
+  Using Volatility framework for RAM analysis in incident investigation scenarios.
+
+- **Cloud & DevOps Security:**  
+  Hands-on experience with IONOS and Azure cloud environments, Docker container security, and GitHub Actions CI/CD workflows.
+
+- **CMS Security:**  
+  Hardening WordPress sites, plugin security reviews, backup strategies, and secure migrations.
+
+- **Open Source Intelligence (OSINT):**  
+  Installation and troubleshooting of X-OSINT tools on Kali Linux for threat intelligence gathering.
 
 ---
 
-## Professional Experience and Internships
+## Featured Repositories
 
-- Vulnerability management and security audits using tools like Nessus, ZAP, and Burp Suite.  
-- Development of Python and Bash scripts for automation of security and analysis tasks.  
-- Forensic analysis and monitoring with Wireshark, Volatility, Snort, and Wazuh for incident detection and response.  
-- Conducting OWASP-based security audits focusing on HTTP header hardening, secure session management, and access control.  
-- Participation in cloud and DevOps security projects using IONOS, Azure, Docker, and GitHub Actions.  
-- Advanced management and securing of CMS, especially WordPress and WooCommerce, including migrations and technical optimization.  
-- Documentation of procedures and creation of checklists for internal teams ensuring best practices and compliance.  
-- Collaboration in IT service management with monitoring, backup, security policies, and continuity planning.
+- [xosint-kali-blue-team](https://github.com/DEBBKL/xosint-kali-blue-team)  
+  Installation, troubleshooting, and detailed analysis of X-OSINT on Kali Linux. Includes installation scripts and documentation.
+
+- (Upcoming) Blue Team practical labs: Windows event analysis, SSH hardening with Fail2Ban, brute force mitigation, log monitoring.
 
 ---
 
-## Contact
+## Core Competencies
 
-Déborah Loisel – Cybersecurity Analyst  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soydeborahloisel@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deborah-loisel)
+- Secure computer and network system configuration and auditing  
+- Vulnerability detection and remediation aligned with OWASP standards  
+- Intrusion detection with IDS/IPS (Snort, Wazuh)  
+- Incident response and forensic analysis  
+- Automation of security tasks using scripting languages  
+- Cloud security fundamentals and DevOps best practices  
+- User and access management, cryptography, secure protocols (TLS/SSL, VPN, SSH)  
+- CMS hardening and security best practices  
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 ---
+
+## Location & Availability
+
+Las Palmas de Gran Canaria, Spain.  
+Available for collaborations, internships, junior analyst roles, and cybersecurity projects.
+
+---
+
+## Contact Me
+
+Feel free to connect for professional opportunities, mentoring, or collaboration:  
+Email: soydeborahloisel@gmail.com  
+LinkedIn: https://www.linkedin.com/in/deborahloisel/
+
+---
+
+"Security is a process, not a state."
+
 
 *Thank you for visiting my professional profile and training in Computer Security.*
