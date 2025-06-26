@@ -95,6 +95,9 @@ Based in Las Palmas de Gran Canaria, open to collaboration and professional oppo
 - [xosint-kali-blue-team](https://github.com/DEBBKL/xosint-kali-blue-team)  
   Installation, troubleshooting, and detailed analysis of X-OSINT on Kali Linux. Includes installation scripts and documentation.
 
+- [radare2-malware-analysis](https://github.com/DEBBKL/radare2-malware-analysis)
+  Repositorio técnico con el análisis estático completo del ransomware WannaCry usando Radare2 en Kali Linux. Incluye instalación paso a paso, ingeniería inversa, propuesta de reglas YARA y capturas explicativas.
+
 - (Upcoming) Blue Team practical labs: Windows event analysis, SSH hardening with Fail2Ban, brute force mitigation, log monitoring.
 
 ---
